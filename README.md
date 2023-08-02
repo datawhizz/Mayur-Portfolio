@@ -6,5 +6,3 @@
 3. Analyzed the cleaned data using pandas, and created data frames of only relevant data.
 4. Developed my own ratings for each of these factors using the pandas and the matrix function from sci-kit learn library.
 5. These ratings are what were used to determine the ranking of each state in these categories.
-
-
