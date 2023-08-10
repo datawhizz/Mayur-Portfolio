@@ -1,6 +1,6 @@
 # Mayur Portfolio #
 
-## **Project 1: Data Analysis to determine the ideal US state to move to**
+## [**Project 1: Data Analysis to determine the ideal US state to move to**](https://github.com/datawhizz/Ideal_US_State)
 1. Aggregrated the cost of living, school system rating, crime rate, and healthcare services data for all 50 US states.
 2. Cleaned the raw data; this includes removing NAs and irrelevant data and making it into a pandas data frame.
 3. Analyzed the cleaned data using pandas, and created data frames of only relevant data.
